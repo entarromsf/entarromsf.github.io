@@ -1,0 +1,27 @@
+{
+  "name": "Mashrin Srivastava",
+  "short_name": "Mashrin Srivastava",
+  "description": "Senior Deep Learning Engineer at Intel.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3D3D3D",
+  "background_color": "#3D3D3D",
+  "author": "Mashrin Srivastava",
+  "icons": [
+    {
+      "src": "static/media/forkme.48c0303d.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/forkme.48c0303d.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },
+    {
+      "src": "static/media/forkme.48c0303d.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}
